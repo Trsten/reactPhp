@@ -1,0 +1,21 @@
+.loginMail {
+    margin-right: 38pt;
+}
+
+.loginPassword {
+    margin-right: 10pt;
+} 
+
+.loginSubmit {
+    margin-top: 10pt;
+}
+
+.login {
+    margin-left: auto;
+    margin-right: auto;
+    width: 200pt;
+}
+
+.loginRow {
+    left: 0pt;
+}
