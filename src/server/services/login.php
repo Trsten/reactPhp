@@ -23,7 +23,7 @@ if (isset($result) && !empty($result)) {
 
     echo json_encode($posts_arr);
 } else {
-    echo json_encode(array('message' => 'No posts Found'));
+    echo json_encode(array('message' => 'No user Found'));
 }
 
 ?>

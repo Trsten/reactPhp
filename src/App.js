@@ -1,8 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Login from './components/Login.js';
-import logo from './logo.svg';
-import './App.css';
+
 
 function App() {
   return (

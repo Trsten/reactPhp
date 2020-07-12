@@ -13,9 +13,11 @@
 .login {
     margin-left: auto;
     margin-right: auto;
-    width: 200pt;
+    margin-top: 100pt;
+    width: 300pt;
 }
 
 .loginRow {
     left: 0pt;
+    display: inline-flex;
 }
